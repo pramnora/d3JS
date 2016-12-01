@@ -9,6 +9,9 @@ http://www.d3js.org
 Link to use inside of document head section...  
 http://d3js.org/d3.v3.min.js  
 
+Wikipedia article  
+https://en.wikipedia.org/wiki/D3.js  
+
 D3JS Video tutorials  
 
 D3.js tutorial - 1/20 - Introduction/(Tutor: D3Vienno)     
@@ -25,7 +28,7 @@ Examples
 https://github.com/d3/d3/wiki/Gallery   
 http://bl.ocks.org  
 http://bl.ocks.org/mbostock  
-http://www.runnable.org  
+http://code.runnable.com/  
 http://www.vida.io  
 http://patakk.tumblr.com/post/33304597365  
 
